@@ -1,0 +1,678 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SunClockAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1213}}";
+			sepNavSelRange = "{2278, 22}";
+			sepNavVisRange = "{312, 2176}";
+			sepNavWindowFrame = "{{61, 306}, {1052, 705}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SunClock */ = {
+		activeExec = 0;
+		executables = (
+			EA6B6EF1130BEBB200B55652 /* SunClock */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SunClockViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 1291}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 1014}";
+			sepNavWindowFrame = "{{38, 431}, {1039, 601}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 4580}}";
+			sepNavSelRange = "{3969, 22}";
+			sepNavVisRange = "{3287, 1277}";
+			sepNavWindowFrame = "{{15, 452}, {1039, 601}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = EA6B6EF1130BEBB200B55652 /* SunClock */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SunClock */;
+		addToTargets = (
+		);
+		breakpoints = (
+			EA04A2FA144294E500653589 /* SunClockViewController.m:36 */,
+			EA04A32C1442A35500653589 /* SunClockAppDelegate.m:35 */,
+			EA04A32E1442A36D00653589 /* SunClockAppDelegate.m:45 */,
+			EA04A3301442A37100653589 /* SunClockAppDelegate.m:52 */,
+			EA04A3321442A37900653589 /* SunClockAppDelegate.m:60 */,
+			EA04A3341442A38200653589 /* SunClockAppDelegate.m:67 */,
+			EA04A3361442A3BF00653589 /* SunClockViewController.m:341 */,
+			EA04A3401442B54600653589 /* SunClockViewController.m:166 */,
+			EA04A38B1443693700653589 /* SunClockAppDelegate.m:26 */,
+			EA6816C51658DAD800945032 /* SunClockViewController.m:251 */,
+			EA6816C91658DCC100945032 /* SunClockViewController.m:192 */,
+			EA6816CB1658DD1B00945032 /* SunClockViewController.m:250 */,
+			EA6817041658E5BC00945032 /* CalcGps.m:52 */,
+			EA6817481658F6FA00945032 /* SunClockViewController.m:140 */,
+		);
+		codeSenseManager = EA6B6EFB130BEBB700B55652 /* Code sense */;
+		executables = (
+			EA6B6EF1130BEBB200B55652 /* SunClock */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					775,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 376011463;
+			PBXWorkspaceStateSaveDate = 376011463;
+		};
+		perUserProjectItems = {
+			EA04A2FF144294E800653589 /* PBXBookmark */ = EA04A2FF144294E800653589 /* PBXBookmark */;
+			EA04A300144294E800653589 /* PBXBookmark */ = EA04A300144294E800653589 /* PBXBookmark */;
+			EA04A301144294E800653589 /* PBXBookmark */ = EA04A301144294E800653589 /* PBXBookmark */;
+			EA04A302144294E800653589 /* PBXBookmark */ = EA04A302144294E800653589 /* PBXBookmark */;
+			EA04A303144294E800653589 /* PBXBookmark */ = EA04A303144294E800653589 /* PBXBookmark */;
+			EA04A304144294E800653589 /* PBXBookmark */ = EA04A304144294E800653589 /* PBXBookmark */;
+			EA04A305144294E800653589 /* PBXBookmark */ = EA04A305144294E800653589 /* PBXBookmark */;
+			EA04A306144294E800653589 /* PBXBookmark */ = EA04A306144294E800653589 /* PBXBookmark */;
+			EA04A307144294E800653589 /* PBXBookmark */ = EA04A307144294E800653589 /* PBXBookmark */;
+			EA04A308144294E800653589 /* PBXBookmark */ = EA04A308144294E800653589 /* PBXBookmark */;
+			EA04A30A144294E800653589 /* PBXBookmark */ = EA04A30A144294E800653589 /* PBXBookmark */;
+			EA04A30B144294E800653589 /* PBXBookmark */ = EA04A30B144294E800653589 /* PBXBookmark */;
+			EA04A30C144294E800653589 /* PBXBookmark */ = EA04A30C144294E800653589 /* PBXBookmark */;
+			EA04A3481442B70800653589 /* PBXTextBookmark */ = EA04A3481442B70800653589 /* PBXTextBookmark */;
+			EA08C2F31341DF8C009570CA /* PBXBookmark */ = EA08C2F31341DF8C009570CA /* PBXBookmark */;
+			EA16CB38166B147000825112 /* PlistBookmark */ = EA16CB38166B147000825112 /* PlistBookmark */;
+			EA16CB39166B147000825112 /* PBXTextBookmark */ = EA16CB39166B147000825112 /* PBXTextBookmark */;
+			EA16CB3A166B147000825112 /* PBXTextBookmark */ = EA16CB3A166B147000825112 /* PBXTextBookmark */;
+			EA16CB3B166B147000825112 /* PBXTextBookmark */ = EA16CB3B166B147000825112 /* PBXTextBookmark */;
+			EA16CB3C166B147000825112 /* PBXTextBookmark */ = EA16CB3C166B147000825112 /* PBXTextBookmark */;
+			EA63AD691658A4B0002C8145 /* PBXTextBookmark */ = EA63AD691658A4B0002C8145 /* PBXTextBookmark */;
+			EA68172C1658E8CF00945032 /* PBXTextBookmark */ = EA68172C1658E8CF00945032 /* PBXTextBookmark */;
+			EA6817301658E8CF00945032 /* PBXTextBookmark */ = EA6817301658E8CF00945032 /* PBXTextBookmark */;
+			EA6817311658E8CF00945032 /* PBXTextBookmark */ = EA6817311658E8CF00945032 /* PBXTextBookmark */;
+			EA6817541658FB4E00945032 /* PBXTextBookmark */ = EA6817541658FB4E00945032 /* PBXTextBookmark */;
+			EA6817561658FB4E00945032 /* PlistBookmark */ = EA6817561658FB4E00945032 /* PlistBookmark */;
+			EA6817581658FB4E00945032 /* PBXTextBookmark */ = EA6817581658FB4E00945032 /* PBXTextBookmark */;
+			EA6817A41659896D00945032 /* PBXTextBookmark */ = EA6817A41659896D00945032 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EA6B6EFA130BEBB700B55652 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SunClock_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	EA04A2FA144294E500653589 /* SunClockViewController.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 36;
+		location = SunClock;
+		modificationTime = 374929286.276335;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A2FF144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A214143E16E900653589 /* DegitalBg.png */;
+	};
+	EA04A300144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A23B143E28E200653589 /* PanelIcon.png */;
+	};
+	EA04A301144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F0A130BF5E400B55652 /* Sun.png */;
+	};
+	EA04A302144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F09130BF5E400B55652 /* Second.png */;
+	};
+	EA04A303144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F04130BF5E400B55652 /* Face.png */;
+	};
+	EA04A304144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A237143E254D00653589 /* PanelBg.png */;
+	};
+	EA04A305144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F01130BF5E400B55652 /* Default.png */;
+	};
+	EA04A306144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A250143FB3BE00653589 /* Default@2x.png */;
+	};
+	EA04A307144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F06130BF5E400B55652 /* Icon.png */;
+	};
+	EA04A308144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A259143FB9DF00653589 /* Icon@2x.png */;
+	};
+	EA04A30A144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F05130BF5E400B55652 /* Hand.png */;
+	};
+	EA04A30B144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A252143FB3BE00653589 /* Hand@2x.png */;
+	};
+	EA04A30C144294E800653589 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA04A242143E2C0900653589 /* Face@2x.png */;
+	};
+	EA04A32C1442A35500653589 /* SunClockAppDelegate.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-applicationWillResignActive:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = SunClock;
+		modificationTime = 374929269.025199;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A32E1442A36D00653589 /* SunClockAppDelegate.m:45 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-applicationDidEnterBackground:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 45;
+		location = SunClock;
+		modificationTime = 374929269.076795;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3301442A37100653589 /* SunClockAppDelegate.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-applicationWillEnterForeground:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = SunClock;
+		modificationTime = 374929269.113591;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3321442A37900653589 /* SunClockAppDelegate.m:60 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-applicationDidBecomeActive:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 60;
+		location = SunClock;
+		modificationTime = 374929291.248981;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3341442A38200653589 /* SunClockAppDelegate.m:67 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 67;
+		location = SunClock;
+		modificationTime = 374929269.214003;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3361442A3BF00653589 /* SunClockViewController.m:341 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-viewDidUnload";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 341;
+		location = SunClock;
+		modificationTime = 374929269.2808229;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3401442B54600653589 /* SunClockViewController.m:166 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-activateAnimationDidStop:finished:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 166;
+		location = SunClock;
+		modificationTime = 374929269.32626;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA04A3481442B70800653589 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6F9B130D17A800B55652 /* CalcAction.h */;
+		name = "CalcAction.h: 42";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	EA04A38B1443693700653589 /* SunClockAppDelegate.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = SunClock;
+		modificationTime = 374929275.131099;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA08C2F31341DF8C009570CA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA6B6F00130BF5E400B55652 /* Bg.png */;
+	};
+	EA16CB38166B147000825112 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SunClock-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/watanabe/Documents/xSeries/iOS/iPhone(Obc)/SunClock(v12)/SunClock-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EA16CB39166B147000825112 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SunClockViewController.h */;
+		name = "SunClockViewController.h: 16";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 0;
+	};
+	EA16CB3A166B147000825112 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SunClockAppDelegate.m */;
+		name = "SunClockAppDelegate.m: 62";
+		rLen = 22;
+		rLoc = 2278;
+		rType = 0;
+		vrLen = 2176;
+		vrLoc = 312;
+	};
+	EA16CB3B166B147000825112 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		name = "SunClockViewController.m: 16";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 1420;
+		vrLoc = 0;
+	};
+	EA16CB3C166B147000825112 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		name = "SunClockViewController.m: 148";
+		rLen = 22;
+		rLoc = 3969;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 3287;
+	};
+	EA63AD691658A4B0002C8145 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SunClock_Prefix.pch */;
+		name = "SunClock_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	EA6816C51658DAD800945032 /* SunClockViewController.m:251 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-touchUp:forEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 251;
+		modificationTime = 374929267.9709479;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EA6816C91658DCC100945032 /* SunClockViewController.m:192 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-tellStart";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 192;
+		location = SunClock;
+		modificationTime = 374929269.4876729;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA6816CB1658DD1B00945032 /* SunClockViewController.m:250 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-touchUp:forEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 250;
+		location = SunClock;
+		modificationTime = 374929269.5413221;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA6817041658E5BC00945032 /* CalcGps.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EA6B6FA2130D184500B55652 /* CalcGps.m */;
+		functionName = "-locationManager:didUpdateToLocation:fromLocation:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = SunClock;
+		modificationTime = 374929331.185779;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA68172C1658E8CF00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6FA1130D184500B55652 /* CalcGps.h */;
+		name = "CalcGps.h: 28";
+		rLen = 9;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	EA6817301658E8CF00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6FA4130D184500B55652 /* CalcSolar.m */;
+		name = "CalcSolar.m: 224";
+		rLen = 25;
+		rLoc = 6019;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 1920;
+	};
+	EA6817311658E8CF00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6FA3130D184500B55652 /* CalcSolar.h */;
+		name = "CalcSolar.h: 16";
+		rLen = 15;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 1349;
+		vrLoc = 0;
+	};
+	EA6817481658F6FA00945032 /* SunClockViewController.m:140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SunClockViewController.m */;
+		functionName = "-setIdleTimerDisabled:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 140;
+		location = SunClock;
+		modificationTime = 374929269.6397929;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EA6817541658FB4E00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6F9C130D17A800B55652 /* CalcAction.m */;
+		name = "CalcAction.m: 79";
+		rLen = 0;
+		rLoc = 1857;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 36;
+	};
+	EA6817561658FB4E00945032 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = EA6817571658FB4E00945032 /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/watanabe/Documents/xSeries/iOS/iPhone(Obc)/SunClock(v12)/Settings.bundle/Root.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	EA6817571658FB4E00945032 /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = "/Users/watanabe/Documents/xSeries/iOS/iPhone(Obc)/SunClock(v12)/Settings.bundle/Root.plist";
+		sourceTree = "<absolute>";
+	};
+	EA6817581658FB4E00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA6B6FA2130D184500B55652 /* CalcGps.m */;
+		name = "CalcGps.m: 52";
+		rLen = 0;
+		rLoc = 1068;
+		rType = 0;
+		vrLen = 1054;
+		vrLoc = 150;
+	};
+	EA68176D1658FD1E00945032 /* Config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 651}}";
+			sepNavSelRange = "{140, 10}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	EA6817A41659896D00945032 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA68176D1658FD1E00945032 /* Config.h */;
+		name = "Config.h: 9";
+		rLen = 10;
+		rLoc = 140;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	EA6B6EF1130BEBB200B55652 /* SunClock */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SunClock;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EA6B6EFA130BEBB700B55652 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EA6B6EFB130BEBB700B55652 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EA6B6F9B130D17A800B55652 /* CalcAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 669}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{0, 811}";
+		};
+	};
+	EA6B6F9C130D17A800B55652 /* CalcAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1040, 1326}}";
+			sepNavSelRange = "{1943, 0}";
+			sepNavVisRange = "{1347, 877}";
+		};
+	};
+	EA6B6FA1130D184500B55652 /* CalcGps.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 674}}";
+			sepNavSelRange = "{556, 9}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	EA6B6FA2130D184500B55652 /* CalcGps.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 992}}";
+			sepNavSelRange = "{1068, 0}";
+			sepNavVisRange = "{150, 1054}";
+		};
+	};
+	EA6B6FA3130D184500B55652 /* CalcSolar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 674}}";
+			sepNavSelRange = "{297, 15}";
+			sepNavVisRange = "{0, 1349}";
+		};
+	};
+	EA6B6FA4130D184500B55652 /* CalcSolar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 3397}}";
+			sepNavSelRange = "{6019, 25}";
+			sepNavVisRange = "{1920, 1589}";
+		};
+	};
+}
